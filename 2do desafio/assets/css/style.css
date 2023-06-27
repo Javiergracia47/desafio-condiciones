@@ -1,0 +1,28 @@
+.stickers {
+    display: flex;
+    justify-content: center;
+    gap:100px;
+  }
+
+  .sticker{
+    margin-top: 200px;
+  }
+
+  .stickers img{
+    width: 200px;
+    height: 200px;
+  }
+  .sticker-input {
+    display: flex;
+    position: relative;
+    left: 70px;
+  }
+
+  button{
+    margin-left: 930px;
+  }
+
+  #result{
+    text-align: center;
+  }
+
